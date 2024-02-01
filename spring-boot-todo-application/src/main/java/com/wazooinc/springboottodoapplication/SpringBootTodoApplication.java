@@ -1,13 +1,13 @@
-package com.ashish.springboottasktracker;
+package com.wazooinc.springboottodoapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootTaskTrackerApplication {
+public class SpringBootTodoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootTaskTrackerApplication.class, args);
+		SpringApplication.run(SpringBootTodoApplication.class, args);
 	}
 
 }
